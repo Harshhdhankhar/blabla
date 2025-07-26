@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshhdhankhar&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhdhankhar&theme=aura&hide_border=true" width="50%" />
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhdhankhar&theme=aura&layout=compact&hide_border=true" width="36%" />
 
  </br>
